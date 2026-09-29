@@ -1,8 +1,8 @@
 {
- "version": "0.2.0",
+ "version": "0.2.1",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.0/QK_v0.2.0.xlam",
-  "sha256": "4436431813c969b4a299d22a23b9a260866beb69aa96c907c1e6296a6f69f516"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.1/QK_v0.2.1.xlam",
+  "sha256": "823d02769d7595ec6b8c07c383968aec940484ed86b3e0e4da14b8bcc8836f5a"
  },
  "library": {
   "version": "1.0.0",
@@ -25,8 +25,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.0_setup.zip",
-  "sha256": "72a29dd81df09470f8850c9b8af04c38804762b4cd6e2fffe71cc20972f44ee1"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.1_setup.zip",
+  "sha256": "2da9a0b3e5697e91b92e0ad07a5c40e49ab28674d5f557134cebb53b07743c7c"
  },
- "notes": "QK v0.2.0 — 설치기 · 자동 업데이트 · 이전 버전으로 · 값 행 확장\n- 설치기(QK_Setup.bat)와 제거기(QK_Uninstall.bat). 현재 사용자 %APPDATA%\\QK 에 판별 폴더로 설치하고 엑셀 추가기능·신뢰할 수 있는 위치를 등록합니다.\n- 엑셀을 켤 때 하루 한 번 새 판을 확인합니다(리본 「자동 업데이트 확인」으로 끌 수 있음). 받은 파일은 sha256 을 확인하고, 엑셀을 다시 켤 때부터 새 판을 씁니다.\n- 라이브러리만 바뀐 패치는 라이브러리 파일만 받아 바로 다시 읽습니다(엑셀 재시작 없음).\n- 리본 「이전 버전으로」: 설치된 옛 판을 고르면 다음 실행부터 그 판을 씁니다.\n- 산출근거 값 행: 값 다섯 · 연산 넷(× ÷), 끝수 처리(올림·내림·반올림)를 항목에서 고릅니다.\n- 옛 양식 판으로 만든 산출서를 열면 복사본에 갱신할지 묻습니다."
+ "notes": "QK v0.2.1 — 업데이트 시험용 패치\n- 기능 변화 없음. 자동 업데이트(받기 · sha256 확인 · 다시 켤 때 교체)와 「이전 버전으로」를 시험하려고 올린 판입니다."
 }
