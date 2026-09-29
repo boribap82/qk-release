@@ -1,0 +1,32 @@
+{
+ "version": "0.2.0",
+ "xlam": {
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.0/QK_v0.2.0.xlam",
+  "sha256": "4436431813c969b4a299d22a23b9a260866beb69aa96c907c1e6296a6f69f516"
+ },
+ "library": {
+  "version": "1.0.0",
+  "files": [
+   {
+    "name": "유형.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/types.csv",
+    "sha256": "ebc5a2e0bf901bb9fd8bc20e38c2e6c01519825ad32a14b7d0b04fbe1d2f07a4"
+   },
+   {
+    "name": "항목.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/items.csv",
+    "sha256": "2f776f1ba8d59eed3d1a779c97d029e2c4997ea6766e6ed17b1192f2214c5787"
+   },
+   {
+    "name": "환산.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/conv.csv",
+    "sha256": "e41980feb35fa3fea8c2032551d8be09aff781af310326480b3967dcbc99e901"
+   }
+  ]
+ },
+ "setup": {
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.0_setup.zip",
+  "sha256": "72a29dd81df09470f8850c9b8af04c38804762b4cd6e2fffe71cc20972f44ee1"
+ },
+ "notes": "QK v0.2.0 — 설치기 · 자동 업데이트 · 이전 버전으로 · 값 행 확장\n- 설치기(QK_Setup.bat)와 제거기(QK_Uninstall.bat). 현재 사용자 %APPDATA%\\QK 에 판별 폴더로 설치하고 엑셀 추가기능·신뢰할 수 있는 위치를 등록합니다.\n- 엑셀을 켤 때 하루 한 번 새 판을 확인합니다(리본 「자동 업데이트 확인」으로 끌 수 있음). 받은 파일은 sha256 을 확인하고, 엑셀을 다시 켤 때부터 새 판을 씁니다.\n- 라이브러리만 바뀐 패치는 라이브러리 파일만 받아 바로 다시 읽습니다(엑셀 재시작 없음).\n- 리본 「이전 버전으로」: 설치된 옛 판을 고르면 다음 실행부터 그 판을 씁니다.\n- 산출근거 값 행: 값 다섯 · 연산 넷(× ÷), 끝수 처리(올림·내림·반올림)를 항목에서 고릅니다.\n- 옛 양식 판으로 만든 산출서를 열면 복사본에 갱신할지 묻습니다."
+}
