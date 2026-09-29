@@ -1,8 +1,8 @@
 {
- "version": "0.2.1",
+ "version": "0.2.2",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.1/QK_v0.2.1.xlam",
-  "sha256": "823d02769d7595ec6b8c07c383968aec940484ed86b3e0e4da14b8bcc8836f5a"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.2/QK_v0.2.2.xlam",
+  "sha256": "bb9a2852720a4b55f1641eb2cdc4592de674b045abcdcb98e9063ba98a3542f3"
  },
  "library": {
   "version": "1.0.0",
@@ -25,8 +25,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.1_setup.zip",
-  "sha256": "2da9a0b3e5697e91b92e0ad07a5c40e49ab28674d5f557134cebb53b07743c7c"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.2_setup.zip",
+  "sha256": "3089c92427220153e0749ae1e3c8530bc4335e9e463feadc1903259fdfe34196"
  },
- "notes": "QK v0.2.1 - 업데이트 시험용 패치\n- 기능 변화 없음. 자동 업데이트(받기 · sha256 확인 · 다시 켤 때 교체)와 「이전 버전으로」를 시험하려고 올린 판입니다."
+ "notes": "QK v0.2.2 - 옛 양식 갱신(복사본) 고침\n- 옛 양식 판으로 만든 산출서를 열고 「예」를 누르면 복사본을 여는 순간 같은 안내가 한 번 더 떠서 멈추던 것을 고쳤습니다.\n- 복사본을 만들지 못하면 까닭을 알려 줍니다."
 }
