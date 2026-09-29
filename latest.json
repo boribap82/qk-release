@@ -1,8 +1,8 @@
 {
- "version": "0.3.1",
+ "version": "0.3.2",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.1/QK_v0.3.1.xlam",
-  "sha256": "f4d6e786fea4510aa217e710e76fc7144bf1ee825426bee22e06b156e515c86c"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.2/QK_v0.3.2.xlam",
+  "sha256": "8b553e5cfa5cd561f378632e4ff776076a824aeffa1715ff44c456c9583a02cc"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.1_setup.zip",
-  "sha256": "fc6aadddb46e95f3bf05e8dd19d9e31308432dfda2f6e8fa2b025b460d3a4878"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.2_setup.zip",
+  "sha256": "521de67d15903f67da9d5486828424f8806e9f97bd43ecea41e4f607edca5496"
  },
- "notes": "QK v0.3.1 - 인쇄면 정리\n- 묶음 머리에 찍히던 틀 설명(쓰는 법)을 인쇄 밖 칸으로 옮겼습니다. 인쇄면 그 자리는 근거·도면번호를 적는 칸입니다.\n- 맞는 틀이 없을 때 쓰는 묶음의 중분류 이름을 「직접 입력」에서 「기타」로 바꿨습니다(라이브러리 2.0.1)."
+ "notes": "QK v0.3.2 - 인쇄면 정리(0.3.1 과 같은 기능 · 공개물 글자 정리)\n- 묶음 머리에 찍히던 틀 설명(쓰는 법)을 인쇄 밖 칸으로 옮겼습니다. 인쇄면 그 자리는 근거·도면번호를 적는 칸입니다.\n- 맞는 틀이 없을 때 쓰는 묶음의 중분류 이름을 「직접 입력」에서 「기타」로 바꿨습니다(라이브러리 2.0.1)."
 }
