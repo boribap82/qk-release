@@ -28,5 +28,5 @@
   "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.1_setup.zip",
   "sha256": "2da9a0b3e5697e91b92e0ad07a5c40e49ab28674d5f557134cebb53b07743c7c"
  },
- "notes": "QK v0.2.1 — 업데이트 시험용 패치\n- 기능 변화 없음. 자동 업데이트(받기 · sha256 확인 · 다시 켤 때 교체)와 「이전 버전으로」를 시험하려고 올린 판입니다."
+ "notes": "QK v0.2.1 - 업데이트 시험용 패치\n- 기능 변화 없음. 자동 업데이트(받기 · sha256 확인 · 다시 켤 때 교체)와 「이전 버전으로」를 시험하려고 올린 판입니다."
 }
