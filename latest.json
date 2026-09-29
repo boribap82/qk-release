@@ -1,8 +1,8 @@
 {
- "version": "0.3.2",
+ "version": "0.3.3",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.2/QK_v0.3.2.xlam",
-  "sha256": "8b553e5cfa5cd561f378632e4ff776076a824aeffa1715ff44c456c9583a02cc"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.3/QK_v0.3.3.xlam",
+  "sha256": "aa05989047fc4e4354ad396104a79b9cc30ec4361d0a0ed115b69dfc94a9cbdd"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.2_setup.zip",
-  "sha256": "521de67d15903f67da9d5486828424f8806e9f97bd43ecea41e4f607edca5496"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.3_setup.zip",
+  "sha256": "2f6e77efd923024ce0340530685a5bb005bef425f67d3f6a73098d3e679bbc86"
  },
- "notes": "QK v0.3.2 - 인쇄면 정리(0.3.1 과 같은 기능 · 공개물 글자 정리)\n- 묶음 머리에 찍히던 틀 설명(쓰는 법)을 인쇄 밖 칸으로 옮겼습니다. 인쇄면 그 자리는 근거·도면번호를 적는 칸입니다.\n- 맞는 틀이 없을 때 쓰는 묶음의 중분류 이름을 「직접 입력」에서 「기타」로 바꿨습니다(라이브러리 2.0.1)."
+ "notes": "QK v0.3.3 - 점검 보강 · 식 표시\n- 점검: 조서 행에서 채운 치수의 곱이 품목 단위(㎥·㎡·m)와 안 맞으면 경고합니다(예: ㎡ 품목에 두께까지 곱함).\n- 파생 줄 식이 변수 하나뿐이어도 값(숫자)으로 찍습니다."
 }
