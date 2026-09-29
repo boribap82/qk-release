@@ -1,32 +1,47 @@
 {
- "version": "0.2.2",
+ "version": "0.3.0",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.2.2/QK_v0.2.2.xlam",
-  "sha256": "bb9a2852720a4b55f1641eb2cdc4592de674b045abcdcb98e9063ba98a3542f3"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.0/QK_v0.3.0.xlam",
+  "sha256": "87599806c3ca9d54c6ae351cbd1b5a6c4deea053c2601551f9dc2a036b066051"
  },
  "library": {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "files": [
    {
     "name": "유형.csv",
-    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/types.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/types.csv",
     "sha256": "ebc5a2e0bf901bb9fd8bc20e38c2e6c01519825ad32a14b7d0b04fbe1d2f07a4"
    },
    {
     "name": "항목.csv",
-    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/items.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/items.csv",
     "sha256": "2f776f1ba8d59eed3d1a779c97d029e2c4997ea6766e6ed17b1192f2214c5787"
    },
    {
     "name": "환산.csv",
-    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/1.0.0/conv.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/conv.csv",
     "sha256": "e41980feb35fa3fea8c2032551d8be09aff781af310326480b3967dcbc99e901"
+   },
+   {
+    "name": "분류.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/classes.csv",
+    "sha256": "db0bf2de8ee6b2146464fa81c1b0e2cb7f60dc83efdfe1e178b6e8e23c3fba41"
+   },
+   {
+    "name": "틀.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/templates.csv",
+    "sha256": "16e1d3f2a303afc6a829e6329cb96f0965f7b445f775d8742a77bc209d714534"
+   },
+   {
+    "name": "줄.csv",
+    "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/library/2.0.0/lines.csv",
+    "sha256": "3e0f11088be71a94fb21e3c4551bcbe9c4c492748e5b7b76a3007adfd0480fe0"
    }
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.2.2_setup.zip",
-  "sha256": "3089c92427220153e0749ae1e3c8530bc4335e9e463feadc1903259fdfe34196"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.0_setup.zip",
+  "sha256": "a4605758f355907e34de633c62bf66bc70ce165d4c94e9c5995fc0129a7a21c7"
  },
- "notes": "QK v0.2.2 - 옛 양식 갱신(복사본) 고침\n- 옛 양식 판으로 만든 산출서를 열고 「예」를 누르면 복사본을 여는 순간 같은 안내가 한 번 더 떠서 멈추던 것을 고쳤습니다.\n- 복사본을 만들지 못하면 까닭을 알려 줍니다."
+ "notes": "QK v0.3.0 - 분류 3층 · 계산 묶음 · 틀 89개\n- 산근의 새 기본 단위 「계산 묶음」: 입력 조서(위치별 치수) → 합계 → 파생 줄 여러 개(수량·자재·폐기물). 인쇄면 식은 숫자로 찍힙니다.\n- 대 > 중 > 소 분류(1 > 1.1 > 1.1.1). 수량집계표도 대분류 > 중분류로 묶습니다.\n- 틀 89개(깨기·철거 · 포장 · 하상·호안 · 우·배수 · 도로부대 · 방류관로 · 가설 · 옹벽·이설 · 직접 입력).\n- 리본 「계산 묶음」: 산근 추가(분류) · 묶음 추가 · 조서 행 추가 · 조서 붙여넣기 · 조서 CSV.\n- 인쇄 밖 칸은 좁게 접고, 참고 과업명·환산 근거 칸은 산출서에서 뺐습니다.\n- 라이브러리 2.0.0(분류·틀·줄 표 추가). 업데이트하면 라이브러리도 함께 받습니다."
 }
