@@ -1,8 +1,8 @@
 {
- "version": "0.4.1",
+ "version": "0.4.2",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.1/QK_v0.4.1.xlam",
-  "sha256": "d469cb78e5620fb4326488ac32f6eac850c8a3715ee52cf09e535b8ced9f7cf3"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.2/QK_v0.4.2.xlam",
+  "sha256": "62732240a6d85e8f91e90afd43cce4e85984cf840b20b0048535e3f38a9ee0fd"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.1_setup.zip",
-  "sha256": "623f8e17cd892d5e3cfbde0e47c23a518d2f07ac2bb3b79bce3feee64cb089a5"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.2_setup.zip",
+  "sha256": "7385b683f68244090dc6ab4541af3814944e5d2239e724394c6eb675ddc4c4e2"
  },
- "notes": "QK v0.4.1 - 삽도\n- 리본 「삽도 넣기」: 묶음 위에 표준단면도·위치 평면도 같은 그림을 넣습니다(PNG·JPG·EMF 파일 또는 클립보드 · 산출근거 폭 · 비율 유지 · 여러 장). 「삽도 빼기」로 뺍니다.\n- 원본 저장·열기·최종본에서 그림이 유지되고, 큰 그림은 한 쪽 높이에 맞추며 공종은 다음 쪽부터 시작합니다."
+ "notes": "QK v0.4.2 - 한 파일 · 새 산출서 입력 창\n- 산출서는 한 파일입니다. 편집 시트(회색 탭 · 계산 묶음 · 조서)와 출력 시트(「출력-...」 · 공종 · 산출근거 · 수량 양식)가 한 통합 문서에 함께 있고, 저장은 Ctrl+S, 다시 열어 이어서 고칩니다.\n- 「집계 갱신」을 누르면 집계표와 출력 시트를 새로 씁니다. 리본 「PDF」는 간지 · 집계 · 출력 시트만 PDF 로 만듭니다.\n- 「원본 저장」 단추와 ..._QK원본.xlsx 규칙은 없어졌습니다. 옛 ..._QK원본.xlsx 를 「열기」로 열면 한 파일 복사본으로 바꿔 엽니다(옛 파일은 그대로).\n- 「최종본 내보내기」는 필요할 때만 쓰는 제출용 사본(값만 · 매크로 없음)으로 남습니다.\n- 「새 산출서」는 입력 창 하나(사업명 · 시설명 · 공종번호 · 공종명)로 받고 앞에 넣은 값을 기억합니다. 리본 큰 단추 이름이 두 줄로 끊기지 않습니다."
 }
