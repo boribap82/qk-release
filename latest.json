@@ -1,8 +1,8 @@
 {
- "version": "0.4.0",
+ "version": "0.4.1",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.0/QK_v0.4.0.xlam",
-  "sha256": "a0636deb303b591b7258f1b71c583f6eef18059e0298ad28ed317480bf533638"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.1/QK_v0.4.1.xlam",
+  "sha256": "d469cb78e5620fb4326488ac32f6eac850c8a3715ee52cf09e535b8ced9f7cf3"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.0_setup.zip",
-  "sha256": "70f8a1e6769f2720a9bf4139a77c21b54db4ba5559f6b34824f9da9e026a9d45"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.1_setup.zip",
+  "sha256": "623f8e17cd892d5e3cfbde0e47c23a518d2f07ac2bb3b79bce3feee64cb089a5"
  },
- "notes": "QK v0.4.0 - QK 원본 열기 · 최종본 새 양식\n- 리본 「열기(QK 원본)」 「원본 저장」: QK 원본(.xlsx)을 열어 항목·조서를 이어서 고칩니다.\n- 「최종본 내보내기」: 제출용 xlsx + pdf 를 새 양식(공종 · 산출근거 · 수량, 단위는 수량 옆, 안쪽 가로선 없음)으로 만듭니다. 원본은 그대로입니다.\n- 긴 문구는 한 줄로 쓰고 계산식은 그 아래 줄에 씁니다(칸 안 줄바꿈 없음)."
+ "notes": "QK v0.4.1 - 삽도\n- 리본 「삽도 넣기」: 묶음 위에 표준단면도·위치 평면도 같은 그림을 넣습니다(PNG·JPG·EMF 파일 또는 클립보드 · 산출근거 폭 · 비율 유지 · 여러 장). 「삽도 빼기」로 뺍니다.\n- 원본 저장·열기·최종본에서 그림이 유지되고, 큰 그림은 한 쪽 높이에 맞추며 공종은 다음 쪽부터 시작합니다."
 }
