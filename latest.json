@@ -1,8 +1,8 @@
 {
- "version": "0.4.3",
+ "version": "0.4.4",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.3/QK_v0.4.3.xlam",
-  "sha256": "98dc067290377c184c1a4c8c15283290eef518f24bda3fa42c440e8ab244eee5"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.4/QK_v0.4.4.xlam",
+  "sha256": "7f1155ed699a80aca6adc2b66b9effe91fdea97617aa85413a58c56690b6b065"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.3_setup.zip",
-  "sha256": "d18ee6bb5fd1bb604a2914a81e3896fbfac40728c8836ae397f788a2a1c01a24"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.4_setup.zip",
+  "sha256": "57a3af74dee02eee09d1d3c8a7a540c6092f4f5fac07b9b7f3ef5669411306a3"
  },
- "notes": "QK v0.4.3 - 리본 단추 이름 한 줄\n- 두 단어 이상인 단추(새 산출서 · 산근 추가 · 산근 추가(분류) · 묶음 추가 · 집계 갱신)를 아이콘 옆 한 줄 단추로 바꿨습니다. 이름이 두 줄로 끊기지 않습니다."
+ "notes": "QK v0.4.4 - 입력 보기 · 출력 보기 · 전체 보기\n- 리본 「보기」 묶음: 「입력 보기」(간지 · 집계 + 편집 시트) · 「출력 보기」(집계를 갱신하고 간지 · 집계 + 출력 시트) · 「전체 보기」.\n- 새 산출서 · 열기 직후는 입력 보기입니다. 저장하면 보기 상태가 그대로 남습니다.\n- 출력 시트를 숨겨 두어도 집계 갱신 · PDF · 최종본 내보내기는 출력 시트로 똑같이 만들어집니다."
 }
