@@ -1,8 +1,8 @@
 {
- "version": "0.3.3",
+ "version": "0.4.0",
  "xlam": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.3.3/QK_v0.3.3.xlam",
-  "sha256": "aa05989047fc4e4354ad396104a79b9cc30ec4361d0a0ed115b69dfc94a9cbdd"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/releases/v0.4.0/QK_v0.4.0.xlam",
+  "sha256": "a0636deb303b591b7258f1b71c583f6eef18059e0298ad28ed317480bf533638"
  },
  "library": {
   "version": "2.0.1",
@@ -40,8 +40,8 @@
   ]
  },
  "setup": {
-  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.3.3_setup.zip",
-  "sha256": "2f6e77efd923024ce0340530685a5bb005bef425f67d3f6a73098d3e679bbc86"
+  "url": "https://raw.githubusercontent.com/boribap82/qk-release/main/setup/QK_v0.4.0_setup.zip",
+  "sha256": "70f8a1e6769f2720a9bf4139a77c21b54db4ba5559f6b34824f9da9e026a9d45"
  },
- "notes": "QK v0.3.3 - 점검 보강 · 식 표시\n- 점검: 조서 행에서 채운 치수의 곱이 품목 단위(㎥·㎡·m)와 안 맞으면 경고합니다(예: ㎡ 품목에 두께까지 곱함).\n- 파생 줄 식이 변수 하나뿐이어도 값(숫자)으로 찍습니다."
+ "notes": "QK v0.4.0 - QK 원본 열기 · 최종본 새 양식\n- 리본 「열기(QK 원본)」 「원본 저장」: QK 원본(.xlsx)을 열어 항목·조서를 이어서 고칩니다.\n- 「최종본 내보내기」: 제출용 xlsx + pdf 를 새 양식(공종 · 산출근거 · 수량, 단위는 수량 옆, 안쪽 가로선 없음)으로 만듭니다. 원본은 그대로입니다.\n- 긴 문구는 한 줄로 쓰고 계산식은 그 아래 줄에 씁니다(칸 안 줄바꿈 없음)."
 }
